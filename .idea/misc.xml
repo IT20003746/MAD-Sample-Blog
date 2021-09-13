@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Sampleblog/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2755208333333333" />
+        <entry key="..\:/Sampleblog/app/src/main/res/drawable/black_gradient.xml" value="0.3671875" />
+        <entry key="..\:/Sampleblog/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2755208333333333" />
+        <entry key="..\:/Sampleblog/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2755208333333333" />
+        <entry key="..\:/Sampleblog/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2755208333333333" />
+        <entry key="..\:/Sampleblog/app/src/main/res/drawable/reg_btn_style.xml" value="0.36302083333333335" />
+        <entry key="..\:/Sampleblog/app/src/main/res/drawable/reg_edittext_style.xml" value="0.346875" />
+        <entry key="..\:/Sampleblog/app/src/main/res/drawable/side_nav_bar.xml" value="0.2755208333333333" />
+        <entry key="..\:/Sampleblog/app/src/main/res/layout/activity_home.xml" value="0.35104166666666664" />
+        <entry key="..\:/Sampleblog/app/src/main/res/layout/activity_login.xml" value="0.3359375" />
+        <entry key="..\:/Sampleblog/app/src/main/res/layout/activity_main.xml" value="0.271286231884058" />
+        <entry key="..\:/Sampleblog/app/src/main/res/layout/activity_register.xml" value="0.3359375" />
+        <entry key="..\:/Sampleblog/app/src/main/res/layout/content_home.xml" value="0.3421875" />
+        <entry key="..\:/Sampleblog/app/src/main/res/layout/nav_header_home.xml" value="0.3463541666666667" />
+        <entry key="..\:/Sampleblog/app/src/main/res/menu/activity_main_drawer.xml" value="0.3463541666666667" />
+        <entry key="..\:/Sampleblog/app/src/main/res/menu/home_new.xml" value="0.19739583333333333" />
+        <entry key="..\:/SampleblogVersion2/app/src/main/res/layout/activity_home.xml" value="0.221875" />
+        <entry key="..\:/SampleblogVersion2/app/src/main/res/layout/activity_login.xml" value="0.221875" />
+        <entry key="..\:/SampleblogVersion2/app/src/main/res/layout/activity_register.xml" value="0.221875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3359375" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
